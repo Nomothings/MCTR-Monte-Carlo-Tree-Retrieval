@@ -1,2 +1,2 @@
-# MCTR-Monte-Carlo-Tree-Retrieval
+# MCTR: Retrieval-Augmented Generation as Monte Carlo Tree Search
 **Abstract**: This research focuses on exploring a way similar to Monte Carlo Tree Search (MCTS) to implement Retrieval-Augmented Generation (RAG). Monte Carlo Tree Retrieval (MCTR) draws on the relevant concepts and methods of Monte Carlo Tree Search, aiming to optimize the retrieval process of RAG through innovative approaches, with the expectation of obtaining more efficient and accurate retrieval results and further improving the quality and performance of the entire Retrieval-Augmented Generation. Through experiments, our method has achieved good results in multiple RAG tasks. Our paper and code will be open-sourced soon.
